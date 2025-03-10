@@ -1,0 +1,3 @@
+Aruco Marker Coordinates Log
+Session started at: 2025-03-10 05:01:17.321842
+--------------------------------------
