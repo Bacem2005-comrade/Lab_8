@@ -1,1 +1,1 @@
-![Generated Image](https://github.com/Bacem2005-comrade/Lab_8/blob/f70de45f621118750d05b6fe7b46f0e2d94ad071/variant-2.png)
+![Generated Image](https://github.com/Bacem2005-comrade/Lab_8/blob/cd297460a9dbe4284889dc7b532ccfeb7be22bee/elephant_with_fly.png)
